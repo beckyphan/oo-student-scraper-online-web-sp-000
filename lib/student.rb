@@ -22,7 +22,4 @@ class Student
     @@all
   end
 
-  def add_student_attributes(student_hash)
-    
-  end
 end
